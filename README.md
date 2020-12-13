@@ -6,6 +6,4 @@ kullanım klavuzu(wiki)
 
 için kullanabilirsiniz.
 
-[Wiki](https://github.com/gucukyazilim/kedi-gucuk-bot-wiki/wiki)
-[Issues](https://github.com/gucukyazilim/kedi-gucuk-bot-wiki/issues)
-[Discussions](https://github.com/gucukyazilim/kedi-gucuk-bot-wiki/discussions)
+[Wiki](https://github.com/gucukyazilim/kedi-gucuk-bot-wiki/wiki) | [Issues](https://github.com/gucukyazilim/kedi-gucuk-bot-wiki/issues) | [Discussions](https://github.com/gucukyazilim/kedi-gucuk-bot-wiki/discussions) 
