@@ -2,7 +2,7 @@
 Kedi Gucuk botu için;
 tartışma,
 hata bildirme,
-kullanım klavuzu(wiki)
+kullanım kılavuzu(wiki)
 
 için kullanabilirsiniz.
 
